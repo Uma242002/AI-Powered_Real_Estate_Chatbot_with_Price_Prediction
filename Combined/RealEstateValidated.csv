@@ -1,0 +1,376 @@
+location,house_type,sqft,bedrooms,furnishing,constr_info,floor_no,facing,price
+ Punjab,Apartments,1481.0,3.0,Semi-Furnished,New Launch,4.0,North-East,8530000.0
+ Karnataka,Houses & Villas,1650.0,3.0,Furnished,Ready to Move,,South-East,10500000.0
+ Gujarat,Apartments,3051.0,4.0,Semi-Furnished,Ready to Move,2.0,East,17000000.0
+ Kerala,Houses & Villas,3000.0,4.0,,,,,15000000.0
+ Rajasthan,Apartments,450.0,1.0,Semi-Furnished,Ready to Move,1.0,East,1050000.0
+ Rajasthan,Apartments,1200.0,3.0,Semi-Furnished,Ready to Move,1.0,East,2900000.0
+ Rajasthan,Apartments,1200.0,3.0,Semi-Furnished,Ready to Move,1.0,East,2900000.0
+ Kerala,Houses & Villas,1500.0,3.0,Semi-Furnished,Ready to Move,2.0,East,6000000.0
+ Kerala,Houses & Villas,1600.0,3.0,Furnished,Ready to Move,2.0,West,5500000.0
+ Tamil Nadu,Apartments,920.0,2.0,Unfurnished,Under Construction,1.0,North-East,4500000.0
+ Kerala,Houses & Villas,1400.0,3.0,Semi-Furnished,Under Construction,1.0,East,6500000.0
+ Rajasthan,Apartments,1050.0,3.0,Furnished,Ready to Move,1.0,East,2792356.0
+ Rajasthan,Apartments,1050.0,3.0,Furnished,Ready to Move,1.0,East,2799632.0
+ Rajasthan,Apartments,1150.0,3.0,Furnished,Ready to Move,1.0,East,2796666.0
+ Tamil Nadu,Houses & Villas,900.0,2.0,Unfurnished,New Launch,0.0,East,3300000.0
+ Kerala,Houses & Villas,1300.0,3.0,Semi-Furnished,Ready to Move,,,4100000.0
+ Gujarat,Apartments,0.0,3.0,Unfurnished,Under Construction,7.0,East,3051000.0
+ Kerala,Houses & Villas,1650.0,3.0,Semi-Furnished,Ready to Move,,,6500000.0
+ Telangana,Apartments,1285.0,2.0,Semi-Furnished,Under Construction,8.0,North-East,3687454.0
+ Gujarat,Builder Floors,2100.0,3.0,Unfurnished,Under Construction,1.0,East,4199000.0
+ Uttar Pradesh,Houses & Villas,1250.0,3.0,Semi-Furnished,Ready to Move,1.0,East,3250000.0
+ Kerala,Houses & Villas,1500.0,3.0,Unfurnished,Under Construction,,East,3800000.0
+ Kerala,Houses & Villas,2100.0,4.0,Unfurnished,Under Construction,,East,8000000.0
+ Kerala,Houses & Villas,2100.0,3.0,Unfurnished,Under Construction,,East,8000000.0
+ Maharashtra,Apartments,938.0,2.0,Furnished,Ready to Move,5.0,East,4929000.0
+ Maharashtra,Apartments,985.0,2.0,Semi-Furnished,Ready to Move,9.0,East,5045000.0
+ Maharashtra,Apartments,1592.0,3.0,Semi-Furnished,Ready to Move,5.0,East,7240000.0
+ Maharashtra,Apartments,791.0,1.0,Semi-Furnished,Ready to Move,4.0,East,3560000.0
+ Gujarat,Apartments,125.0,2.0,Unfurnished,Ready to Move,5.0,East,4200000.0
+ Punjab,Apartments,1750.0,3.0,Semi-Furnished,Under Construction,7.0,North-East,11500000.0
+ Kerala,Houses & Villas,1500.0,4.0,Semi-Furnished,Ready to Move,,,7000000.0
+ Kerala,Houses & Villas,1900.0,3.0,Semi-Furnished,Ready to Move,,,5700000.0
+ Kerala,Houses & Villas,1500.0,3.0,Semi-Furnished,Ready to Move,,,5000000.0
+ Rajasthan,Apartments,1800.0,4.0,Furnished,Ready to Move,1.0,East,8000000.0
+ Kerala,Apartments,1200.0,2.0,Semi-Furnished,Ready to Move,2.0,East,4200000.0
+ Haryana,Builder Floors,1750.0,3.0,Semi-Furnished,Ready to Move,2.0,East,8200000.0
+ Haryana,Apartments,117.0,3.0,Unfurnished,Ready to Move,,South-West,2200000.0
+ Kerala,Houses & Villas,1500.0,3.0,Semi-Furnished,Ready to Move,,,6200000.0
+ Rajasthan,Apartments,715.0,2.0,Unfurnished,New Launch,1.0,East,2500000.0
+ Haryana,Builder Floors,1350.0,3.0,Semi-Furnished,Ready to Move,1.0,East,5500000.0
+ Rajasthan,Apartments,850.0,2.0,Semi-Furnished,Ready to Move,2.0,East,2300000.0
+ Rajasthan,Apartments,1200.0,3.0,Semi-Furnished,Ready to Move,1.0,East,2900000.0
+ Rajasthan,Apartments,850.0,2.0,Semi-Furnished,Ready to Move,2.0,East,2250000.0
+ Rajasthan,Apartments,900.0,2.0,,Ready to Move,2.0,East,2200000.0
+ Rajasthan,Apartments,1200.0,3.0,Semi-Furnished,Ready to Move,2.0,East,2800000.0
+ Rajasthan,Apartments,1200.0,3.0,Semi-Furnished,Ready to Move,1.0,East,2900000.0
+ Rajasthan,Apartments,1200.0,3.0,Semi-Furnished,Ready to Move,1.0,East,2750000.0
+ Kerala,Houses & Villas,1600.0,3.0,Furnished,Ready to Move,2.0,East,6900000.0
+ Punjab,Builder Floors,1298.0,3.0,Semi-Furnished,Ready to Move,3.0,East,3990000.0
+ Telangana,Apartments,1080.0,2.0,Semi-Furnished,Ready to Move,1.0,North-East,5000000.0
+ Uttar Pradesh,Houses & Villas,1650.0,3.0,Furnished,Ready to Move,12.0,West,5700000.0
+ West Bengal,Houses & Villas,1100.0,2.0,Unfurnished,Ready to Move,1.0,East,3500000.0
+ Tamil Nadu,Apartments,921.0,2.0,Unfurnished,Under Construction,3.0,North-East,4500000.0
+ Kerala,Houses & Villas,1550.0,4.0,Furnished,Ready to Move,1.0,East,6000000.0
+ Tamil Nadu,Apartments,784.0,2.0,Unfurnished,Under Construction,2.0,North-East,4500000.0
+ Rajasthan,Apartments,900.0,2.0,Semi-Furnished,Ready to Move,1.0,East,2094567.0
+ Rajasthan,Apartments,900.0,2.0,Semi-Furnished,,1.0,East,2099658.0
+ Rajasthan,Apartments,1200.0,3.0,Semi-Furnished,New Launch,1.0,East,2999963.0
+ Tamil Nadu,Houses & Villas,1432.0,2.0,Unfurnished,Under Construction,,North,7500000.0
+ Tamil Nadu,Houses & Villas,1400.0,2.0,Unfurnished,Under Construction,1.0,West,7246000.0
+ Tamil Nadu,Houses & Villas,950.0,2.0,Unfurnished,New Launch,0.0,South,3300000.0
+ Kerala,Houses & Villas,2900.0,4.0,Semi-Furnished,Ready to Move,,North,21500000.0
+ Uttar Pradesh,Apartments,2390.0,3.0,Semi-Furnished,New Launch,7.0,North-East,9999999.0
+ Maharashtra,Apartments,1150.0,2.0,Unfurnished,Under Construction,20.0,East,7000000.0
+ Rajasthan,Houses & Villas,1738.0,4.0,Semi-Furnished,Ready to Move,,West,3900000.0
+ Kerala,Houses & Villas,1350.0,3.0,Semi-Furnished,Ready to Move,,,4500000.0
+ Uttar Pradesh,Apartments,2398.0,4.0,Unfurnished,Ready to Move,0.0,,8000000.0
+ Gujarat,Apartments,0.0,3.0,Unfurnished,Under Construction,7.0,East,3051000.0
+ Gujarat,Apartments,0.0,3.0,Unfurnished,Under Construction,7.0,East,3051000.0
+ Gujarat,Apartments,0.0,2.0,Unfurnished,Ready to Move,1.0,West,3500000.0
+ Gujarat,Apartments,0.0,3.0,Unfurnished,Under Construction,7.0,East,3051000.0
+ Kerala,Houses & Villas,1700.0,3.0,Semi-Furnished,Ready to Move,2.0,East,6600000.0
+ Kerala,Houses & Villas,1500.0,3.0,Unfurnished,Under Construction,,East,4250000.0
+ Andhra Pradesh,Apartments,1050.0,3.0,Furnished,Ready to Move,3.0,East,4100000.0
+ Rajasthan,Houses & Villas,4500.0,4.0,Unfurnished,Ready to Move,3.0,South-East,13000000.0
+ Delhi,Builder Floors,800.0,3.0,Semi-Furnished,Ready to Move,1.0,East,3011000.0
+ Kerala,Houses & Villas,1500.0,3.0,Unfurnished,Under Construction,,East,4250000.0
+ Haryana,Builder Floors,1200.0,3.0,Semi-Furnished,Ready to Move,1.0,,5800000.0
+ Maharashtra,Apartments,1685.0,3.0,Furnished,Ready to Move,9.0,East,7989000.0
+ Maharashtra,Apartments,1064.0,2.0,Semi-Furnished,Ready to Move,5.0,East,5180000.0
+ Maharashtra,Apartments,974.0,2.0,Semi-Furnished,Ready to Move,9.0,East,5260000.0
+ Punjab,Apartments,2200.0,3.0,Semi-Furnished,Ready to Move,7.0,North,10600000.0
+ Gujarat,Apartments,1400.0,3.0,Semi-Furnished,Ready to Move,2.0,East,4250000.0
+ Delhi,Builder Floors,450.0,1.0,Semi-Furnished,Ready to Move,,,1450000.0
+ Gujarat,Apartments,1395.0,2.0,Semi-Furnished,Ready to Move,2.0,East,4150000.0
+ Kerala,Houses & Villas,2700.0,4.0,Semi-Furnished,Ready to Move,0.0,,12500000.0
+ Punjab,Builder Floors,850.0,2.0,Semi-Furnished,Ready to Move,3.0,North-East,1890000.0
+ Haryana,Builder Floors,1350.0,3.0,Semi-Furnished,Ready to Move,2.0,East,3700000.0
+ Haryana,Builder Floors,1350.0,3.0,Semi-Furnished,Ready to Move,1.0,East,5500000.0
+ Gujarat,Apartments,625.0,1.0,Unfurnished,Ready to Move,,,1700000.0
+ Gujarat,Apartments,1950.0,3.0,Unfurnished,Ready to Move,,East,6800000.0
+ Gujarat,Houses & Villas,1500.0,3.0,Unfurnished,Under Construction,,East,5311000.0
+ Gujarat,Apartments,1110.0,2.0,Semi-Furnished,Ready to Move,,North,2900000.0
+ Gujarat,Apartments,1130.0,2.0,Unfurnished,Ready to Move,,East,3400000.0
+ Gujarat,Apartments,1209.0,2.0,Unfurnished,Under Construction,,East,4775000.0
+ Kerala,Houses & Villas,1250.0,3.0,Semi-Furnished,New Launch,1.0,West,5450000.0
+ Uttar Pradesh,Apartments,300.0,1.0,Unfurnished,New Launch,0.0,East,1200000.0
+ Tamil Nadu,Apartments,543.0,1.0,Unfurnished,Ready to Move,1.0,North,1999997.0
+ Gujarat,Apartments,1233.0,2.0,Semi-Furnished,Ready to Move,,East,4100000.0
+ Gujarat,Apartments,712.0,1.0,Unfurnished,Ready to Move,,East,2400000.0
+ Gujarat,Apartments,771.0,1.0,Unfurnished,Under Construction,,East,2711000.0
+ Gujarat,Apartments,1750.0,3.0,Semi-Furnished,Ready to Move,,East,5000000.0
+ Punjab,Houses & Villas,2500.0,4.0,Semi-Furnished,Ready to Move,2.0,,5600000.0
+ Punjab,Apartments,1400.0,3.0,Semi-Furnished,Ready to Move,,,4500000.0
+ Punjab,Apartments,2360.0,3.0,Semi-Furnished,New Launch,,,6500000.0
+ Punjab,Houses & Villas,3000.0,4.0,Semi-Furnished,Ready to Move,,,6200000.0
+ Kerala,Houses & Villas,1700.0,3.0,Semi-Furnished,Ready to Move,,,4800000.0
+ Andhra Pradesh,Houses & Villas,1400.0,2.0,Unfurnished,Under Construction,1.0,East,4500000.0
+ Andhra Pradesh,Houses & Villas,1000.0,2.0,Furnished,New Launch,1.0,North-East,3500000.0
+ Gujarat,Houses & Villas,1537.0,3.0,Unfurnished,Ready to Move,,North-East,11500000.0
+ Rajasthan,Apartments,991.0,2.0,Semi-Furnished,Ready to Move,1.0,North,3000000.0
+ Kerala,Houses & Villas,1650.0,4.0,Semi-Furnished,New Launch,,East,6700000.0
+ Kerala,Houses & Villas,2000.0,4.0,Semi-Furnished,New Launch,,,6200000.0
+ Andhra Pradesh,Houses & Villas,24.0,3.0,Furnished,New Launch,2.0,East,5800000.0
+ Karnataka,Houses & Villas,1200.0,2.0,Furnished,Ready to Move,,North-West,7000000.0
+ Delhi,Builder Floors,1230.0,3.0,Semi-Furnished,Under Construction,1.0,North,6400000.0
+ Kerala,Houses & Villas,2300.0,4.0,Semi-Furnished,New Launch,,East,8000000.0
+ Delhi,Builder Floors,513.0,2.0,Semi-Furnished,Ready to Move,2.0,North,2321000.0
+ Delhi,Builder Floors,423.0,1.0,Semi-Furnished,Ready to Move,2.0,North,1695000.0
+ Delhi,Builder Floors,725.0,,Semi-Furnished,Ready to Move,3.0,West,3521000.0
+ Gujarat,Apartments,1066.0,2.0,Unfurnished,Under Construction,,,1849996.0
+ Delhi,Builder Floors,720.0,3.0,Furnished,Ready to Move,2.0,North,3550000.0
+ Delhi,Builder Floors,520.0,2.0,Semi-Furnished,Ready to Move,1.0,South,2225000.0
+ Maharashtra,Apartments,650.0,2.0,Semi-Furnished,Ready to Move,7.0,,2000000.0
+ Rajasthan,Houses & Villas,1210.0,3.0,Semi-Furnished,Ready to Move,1.0,West,2210000.0
+ Kerala,Houses & Villas,1999.0,3.0,Furnished,Ready to Move,,,6800000.0
+ Tamil Nadu,Houses & Villas,1800.0,2.0,Unfurnished,Ready to Move,,South,5600000.0
+ Kerala,Houses & Villas,3150.0,4.0,Furnished,New Launch,,North-West,11000000.0
+ Kerala,Houses & Villas,3000.0,4.0,Furnished,Ready to Move,,,11000000.0
+ Haryana,Houses & Villas,1000.0,4.0,Furnished,Ready to Move,1.0,North,4300000.0
+ Kerala,Houses & Villas,2200.0,4.0,Furnished,Ready to Move,,,5500000.0
+ Kerala,Houses & Villas,2350.0,4.0,Semi-Furnished,Ready to Move,,,13000000.0
+ Uttar Pradesh,Builder Floors,900.0,2.0,Semi-Furnished,Ready to Move,1.0,East,1450000.0
+ Delhi,Builder Floors,460.0,2.0,Semi-Furnished,Ready to Move,1.0,East,2150000.0
+ Kerala,Houses & Villas,1200.0,3.0,Furnished,Ready to Move,,East,3100000.0
+ Maharashtra,Apartments,650.0,1.0,Semi-Furnished,Ready to Move,2.0,East,3600000.0
+ Maharashtra,Apartments,1800.0,3.0,Furnished,Ready to Move,6.0,West,12000000.0
+ Kerala,Farm Houses,1000.0,3.0,Semi-Furnished,Ready to Move,1.0,North-East,50000.0
+ Odisha,Houses & Villas,2000.0,4.0,Unfurnished,Under Construction,2.0,East,7000000.0
+ Kerala,Houses & Villas,2100.0,4.0,Furnished,Ready to Move,,East,8500000.0
+ Maharashtra,Apartments,650.0,1.0,Unfurnished,Ready to Move,16.0,South-East,4200000.0
+ Uttar Pradesh,Houses & Villas,1800.0,4.0,Semi-Furnished,Ready to Move,0.0,North,6000000.0
+ Kerala,Houses & Villas,1602.0,3.0,Semi-Furnished,Ready to Move,,North,4999999.0
+ Kerala,Houses & Villas,2000.0,4.0,Semi-Furnished,Ready to Move,,,6000000.0
+ Maharashtra,Apartments,650.0,1.0,Semi-Furnished,Ready to Move,0.0,East,3300000.0
+ Kerala,Houses & Villas,2400.0,4.0,Furnished,Ready to Move,,,14000000.0
+ Kerala,Houses & Villas,2200.0,4.0,Semi-Furnished,Ready to Move,,,7000000.0
+ West Bengal,Apartments,1070.0,3.0,Furnished,Ready to Move,2.0,North-West,3200000.0
+ Maharashtra,Builder Floors,856.0,2.0,Unfurnished,New Launch,3.0,North-West,4120000.0
+ Uttar Pradesh,Builder Floors,433.0,1.0,Semi-Furnished,Ready to Move,1.0,East,998000.0
+ Delhi,Builder Floors,750.0,2.0,Semi-Furnished,Ready to Move,2.0,East,2300000.0
+ Kerala,Apartments,591.0,1.0,Unfurnished,Under Construction,3.0,East,2850000.0
+ Kerala,Houses & Villas,900.0,2.0,Furnished,Ready to Move,,,4200000.0
+ Haryana,Builder Floors,700.0,2.0,Furnished,Ready to Move,1.0,East,2000000.0
+ Delhi,Builder Floors,1000.0,3.0,Semi-Furnished,Ready to Move,1.0,North,5500000.0
+ Kerala,Houses & Villas,2400.0,4.0,Furnished,Ready to Move,,,8500000.0
+ Kerala,Houses & Villas,1400.0,3.0,Furnished,Ready to Move,1.0,East,4600000.0
+ Telangana,Apartments,600.0,1.0,Furnished,Ready to Move,3.0,East,2050000.0
+ Kerala,Houses & Villas,925.0,2.0,Semi-Furnished,Ready to Move,,,3100000.0
+ Delhi,Builder Floors,1000.0,3.0,Semi-Furnished,Ready to Move,4.0,West,5000000.0
+ Kerala,Houses & Villas,1400.0,3.0,Furnished,Ready to Move,1.0,East,5500000.0
+ Kerala,Houses & Villas,1100.0,3.0,Furnished,Ready to Move,,East,4000000.0
+ Andhra Pradesh,Apartments,550.0,1.0,Semi-Furnished,Ready to Move,2.0,West,1610000.0
+ Haryana,Builder Floors,950.0,3.0,Furnished,Ready to Move,1.0,North,3200000.0
+ Kerala,Houses & Villas,1000.0,3.0,Furnished,Ready to Move,,East,3700000.0
+ Kerala,Houses & Villas,2600.0,4.0,Furnished,Ready to Move,3.0,East,9500000.0
+ Tamil Nadu,Houses & Villas,5700.0,4.0,Unfurnished,Ready to Move,2.0,West,240000000.0
+ Maharashtra,Apartments,1400.0,2.0,Furnished,Ready to Move,12.0,West,31900000.0
+ Delhi,Apartments,1045.0,2.0,Unfurnished,Under Construction,5.0,East,3814000.0
+ Maharashtra,Apartments,455.0,,Unfurnished,Ready to Move,1.0,,2050000.0
+ Kerala,Houses & Villas,1500.0,4.0,Furnished,Ready to Move,2.0,East,3500000.0
+ Tamil Nadu,Houses & Villas,1600.0,3.0,Unfurnished,Under Construction,12.0,North-East,5500000.0
+ Kerala,Houses & Villas,2000.0,4.0,Unfurnished,Under Construction,2.0,,6200000.0
+ Maharashtra,Apartments,640.0,1.0,Unfurnished,Ready to Move,2.0,East,4000000.0
+ Kerala,Houses & Villas,1950.0,4.0,Furnished,Ready to Move,1.0,East,6500000.0
+ Telangana,Houses & Villas,775.0,2.0,Unfurnished,Ready to Move,0.0,West,5200000.0
+ Bihar,Houses & Villas,1110.0,2.0,Furnished,Ready to Move,2.0,West,6000000.0
+ Tamil Nadu,Apartments,800.0,2.0,Semi-Furnished,Ready to Move,2.0,South,8500000.0
+ Karnataka,Apartments,1110.0,,,,,East,5500000.0
+ Uttaranchal,Houses & Villas,701.0,2.0,Semi-Furnished,Ready to Move,,North,1850000.0
+ Kerala,Houses & Villas,1600.0,3.0,Semi-Furnished,Ready to Move,,,6600000.0
+ Karnataka,Houses & Villas,1200.0,,,,,,18000000.0
+ Karnataka,Houses & Villas,1350.0,,,,,,15000000.0
+ Haryana,Houses & Villas,1700.0,4.0,Furnished,Ready to Move,1.0,East,5500000.0
+ Uttar Pradesh,Houses & Villas,35.0,2.0,Semi-Furnished,Ready to Move,1.0,North-East,1500000.0
+ Telangana,Apartments,1550.0,3.0,Semi-Furnished,Ready to Move,4.0,North,7500000.0
+ Rajasthan,Houses & Villas,1250.0,3.0,Furnished,Under Construction,1.0,East,4600000.0
+ Maharashtra,Apartments,990.0,2.0,Semi-Furnished,Ready to Move,3.0,North-East,7700000.0
+ Kerala,Houses & Villas,800.0,2.0,Furnished,Ready to Move,,East,3200000.0
+ Punjab,Houses & Villas,3000.0,4.0,Furnished,Ready to Move,,,11000000.0
+ Haryana,Builder Floors,990.0,3.0,Furnished,Ready to Move,2.0,North,3200000.0
+ Kerala,Houses & Villas,1600.0,3.0,Furnished,Ready to Move,1.0,East,6000000.0
+ West Bengal,Apartments,800.0,2.0,Unfurnished,Ready to Move,3.0,South,1700000.0
+ Kerala,Houses & Villas,2100.0,4.0,Semi-Furnished,Under Construction,,,9000000.0
+ West Bengal,Houses & Villas,891.0,1.0,Unfurnished,Ready to Move,,North,1000000.0
+ Kerala,Houses & Villas,1600.0,3.0,Semi-Furnished,Ready to Move,,,4500000.0
+ Odisha,Houses & Villas,1300.0,3.0,Unfurnished,Under Construction,2.0,North-West,3500000.0
+ Haryana,Houses & Villas,1400.0,4.0,Furnished,Ready to Move,1.0,North-West,5100000.0
+ Kerala,Houses & Villas,2700.0,4.0,Semi-Furnished,Ready to Move,,,10500000.0
+ Kerala,Houses & Villas,2100.0,4.0,Semi-Furnished,Ready to Move,,,8500000.0
+ Chhattisgarh,Houses & Villas,800.0,2.0,Unfurnished,Ready to Move,1.0,East,2700000.0
+ Kerala,Houses & Villas,2100.0,4.0,Semi-Furnished,Ready to Move,,,9000000.0
+ Kerala,Houses & Villas,1600.0,4.0,Semi-Furnished,Ready to Move,,,4800000.0
+ Andhra Pradesh,Houses & Villas,690.0,2.0,Furnished,Ready to Move,2.0,East,4500000.0
+ Rajasthan,Houses & Villas,2000.0,4.0,Semi-Furnished,Ready to Move,2.0,East,5500000.0
+ Delhi,Builder Floors,850.0,3.0,Semi-Furnished,Ready to Move,2.0,South-East,4200000.0
+ Uttar Pradesh,Apartments,1421.0,3.0,Furnished,Ready to Move,6.0,East,5500000.0
+ Kerala,Houses & Villas,4500.0,1.0,Unfurnished,Ready to Move,,West,2800000.0
+ Maharashtra,Houses & Villas,2500.0,4.0,Semi-Furnished,Ready to Move,0.0,East,16000000.0
+ Madhya Pradesh,Houses & Villas,1500.0,3.0,Semi-Furnished,Ready to Move,,North,6500000.0
+ Tamil Nadu,Apartments,2783.0,3.0,Unfurnished,Ready to Move,1.0,South,18000000.0
+ Chhattisgarh,Houses & Villas,600.0,2.0,Unfurnished,Ready to Move,1.0,South,2000000.0
+ Kerala,Houses & Villas,1689.0,4.0,Furnished,Ready to Move,,,6500000.0
+ Kerala,Houses & Villas,1800.0,4.0,Furnished,Ready to Move,,,6500000.0
+ Haryana,Houses & Villas,1300.0,3.0,Semi-Furnished,Ready to Move,2.0,North,3600000.0
+ Telangana,,,,,,,,9900000.0
+ Punjab,Houses & Villas,6000.0,4.0,Semi-Furnished,Ready to Move,2.0,,26000000.0
+ Andhra Pradesh,Houses & Villas,1400.0,2.0,Unfurnished,New Launch,1.0,North,4500000.0
+ Kerala,Houses & Villas,1000.0,2.0,Furnished,Ready to Move,,,2800000.0
+ Haryana,Builder Floors,1300.0,3.0,Semi-Furnished,Ready to Move,1.0,North-East,7100000.0
+ Kerala,Houses & Villas,2600.0,4.0,Semi-Furnished,Ready to Move,,East,10000000.0
+ Kerala,Houses & Villas,1475.0,3.0,Furnished,Ready to Move,,,5500000.0
+ Andhra Pradesh,Houses & Villas,1400.0,2.0,Unfurnished,Under Construction,1.0,North-East,4500000.0
+ Andhra Pradesh,Houses & Villas,1000.0,2.0,Furnished,Under Construction,1.0,East,3500000.0
+ Delhi,Builder Floors,550.0,2.0,Semi-Furnished,Ready to Move,1.0,North-East,2000000.0
+ Delhi,Builder Floors,400.0,1.0,Semi-Furnished,Ready to Move,1.0,North-East,1275000.0
+ Delhi,Builder Floors,700.0,3.0,Semi-Furnished,Ready to Move,1.0,North,3200000.0
+ Rajasthan,Builder Floors,1322.0,3.0,Semi-Furnished,Ready to Move,1.0,North,3199999.0
+ Rajasthan,Houses & Villas,1848.0,4.0,Semi-Furnished,Ready to Move,,East,6000000.0
+ Rajasthan,Houses & Villas,1700.0,3.0,Semi-Furnished,Ready to Move,,West,5500000.0
+ Kerala,Houses & Villas,1138.0,2.0,Semi-Furnished,Ready to Move,,North,6000000.0
+ Karnataka,Houses & Villas,18528.0,4.0,Semi-Furnished,Ready to Move,,East,63500000.0
+ Punjab,Builder Floors,900.0,2.0,Furnished,Ready to Move,2.0,East,2490000.0
+ Delhi,Builder Floors,400.0,1.0,Semi-Furnished,Ready to Move,1.0,East,990000.0
+ Delhi,Builder Floors,500.0,2.0,Semi-Furnished,Ready to Move,1.0,East,1490000.0
+ Kerala,Houses & Villas,1400.0,3.0,Semi-Furnished,New Launch,,North,5500000.0
+ Delhi,Builder Floors,603.0,2.0,Semi-Furnished,Ready to Move,2.0,North,2925000.0
+ Delhi,Builder Floors,521.0,2.0,,Ready to Move,3.0,South,2421000.0
+ Kerala,Houses & Villas,1450.0,3.0,Semi-Furnished,New Launch,,East,5000000.0
+ Gujarat,Apartments,1066.0,2.0,Unfurnished,Under Construction,,,1849998.0
+ Gujarat,Apartments,1066.0,2.0,Unfurnished,Under Construction,,,1849999.0
+ Kerala,Houses & Villas,1999.0,4.0,Furnished,Ready to Move,,,8500000.0
+ Telangana,Apartments,1560.0,3.0,Unfurnished,Ready to Move,3.0,East,8500000.0
+ Kerala,Houses & Villas,1000.0,3.0,Unfurnished,Ready to Move,,East,3500000.0
+ Uttar Pradesh,Farm Houses,2000.0,4.0,Semi-Furnished,Ready to Move,,North-East,15000000.0
+ Uttar Pradesh,Houses & Villas,594.0,2.0,Semi-Furnished,Under Construction,,North,2100000.0
+ Kerala,Houses & Villas,2000.0,4.0,Furnished,New Launch,2.0,East,99000000.0
+ Kerala,Houses & Villas,2000.0,3.0,Semi-Furnished,Ready to Move,,,5800000.0
+ Andhra Pradesh,Apartments,1200.0,2.0,Furnished,Ready to Move,1.0,North-West,3600000.0
+ Maharashtra,Apartments,615.0,1.0,Unfurnished,Under Construction,3.0,East,4999000.0
+ Kerala,Houses & Villas,1403.0,3.0,Furnished,Ready to Move,,,5100000.0
+ Kerala,Houses & Villas,2007.0,4.0,,Ready to Move,,,7500000.0
+ Madhya Pradesh,Houses & Villas,400.0,2.0,Furnished,Ready to Move,1.0,North,1100000.0
+ Kerala,Houses & Villas,1900.0,3.0,Furnished,Ready to Move,,,7500000.0
+ Kerala,Houses & Villas,2305.0,4.0,Furnished,Ready to Move,,,7800000.0
+ Kerala,Houses & Villas,1500.0,3.0,Semi-Furnished,Ready to Move,,,4100000.0
+ Tamil Nadu,Apartments,900.0,2.0,Unfurnished,Ready to Move,1.0,East,2950000.0
+ Kerala,Houses & Villas,1000.0,3.0,Semi-Furnished,Ready to Move,,,3700000.0
+ Kerala,Houses & Villas,1735.0,4.0,Furnished,Ready to Move,,,6000000.0
+ Kerala,Apartments,1050.0,2.0,Unfurnished,Ready to Move,8.0,East,3700000.0
+ West Bengal,Builder Floors,835.0,2.0,Unfurnished,Ready to Move,4.0,East,2200000.0
+ Delhi,Builder Floors,370.0,1.0,Semi-Furnished,Ready to Move,2.0,East,1450000.0
+ Punjab,Apartments,4276.0,4.0,Semi-Furnished,Ready to Move,5.0,North,27000000.0
+ Kerala,Houses & Villas,3000.0,4.0,Furnished,Ready to Move,,,35000000.0
+ Kerala,Houses & Villas,2600.0,4.0,Semi-Furnished,Ready to Move,,,8200000.0
+ Telangana,Houses & Villas,2700.0,4.0,Unfurnished,Ready to Move,1.0,East,40000.0
+ Kerala,Houses & Villas,1399.0,3.0,Furnished,Ready to Move,,,5500000.0
+ Kerala,Houses & Villas,1850.0,3.0,Furnished,Ready to Move,,,7300000.0
+ Kerala,Houses & Villas,1441.0,3.0,Furnished,Ready to Move,,,4499999.0
+ Chhattisgarh,Houses & Villas,500.0,2.0,Unfurnished,Ready to Move,1.0,North,1800000.0
+ Kerala,Houses & Villas,900.0,2.0,Furnished,Ready to Move,,,4000000.0
+ Rajasthan,Apartments,900.0,2.0,Semi-Furnished,Ready to Move,1.0,East,2096666.0
+ Kerala,Houses & Villas,1500.0,3.0,Furnished,,,,400000.0
+,,,,,,,,
+ Kerala,Apartments,1900.0,3.0,Furnished,Ready to Move,,,5500000.0
+ Kerala,Houses & Villas,1800.0,3.0,Furnished,Ready to Move,,,6500000.0
+ Kerala,Houses & Villas,1850.0,4.0,Furnished,Ready to Move,,,6100000.0
+ Karnataka,Apartments,1123.0,2.0,Semi-Furnished,Ready to Move,1.0,West,6322110.0
+ Kerala,Houses & Villas,1080.0,2.0,Unfurnished,New Launch,,East,3450000.0
+ Uttar Pradesh,Houses & Villas,1700.0,4.0,Semi-Furnished,Under Construction,,East,4100000.0
+ Karnataka,Apartments,940.0,2.0,Unfurnished,Ready to Move,3.0,North,3955000.0
+ Kerala,Houses & Villas,2950.0,4.0,Furnished,Ready to Move,,East,20000000.0
+ Kerala,Houses & Villas,1800.0,3.0,Furnished,Ready to Move,0.0,East,7800000.0
+ Kerala,Houses & Villas,1250.0,3.0,Semi-Furnished,Ready to Move,,North,5500000.0
+ Tamil Nadu,Houses & Villas,1150.0,2.0,Furnished,Ready to Move,1.0,East,3300000.0
+ Chhattisgarh,Builder Floors,800.0,2.0,Unfurnished,Ready to Move,1.0,West,2350000.0
+ Kerala,Houses & Villas,2400.0,4.0,Furnished,Ready to Move,,,12000000.0
+ Kerala,Houses & Villas,1800.0,4.0,Semi-Furnished,Ready to Move,,,5300000.0
+ Tamil Nadu,Houses & Villas,1000.0,2.0,Semi-Furnished,New Launch,1.0,North,2500000.0
+ Punjab,Builder Floors,990.0,2.0,Semi-Furnished,Ready to Move,2.0,North-East,2750000.0
+ Maharashtra,Apartments,1210.0,3.0,Semi-Furnished,Ready to Move,,,24000000.0
+ Tamil Nadu,Houses & Villas,1150.0,2.0,Furnished,Ready to Move,1.0,North,3200000.0
+ Haryana,Houses & Villas,2000.0,4.0,Furnished,Ready to Move,1.0,East,8000000.0
+ Kerala,Houses & Villas,2100.0,4.0,Semi-Furnished,Ready to Move,,,8000000.0
+ Chhattisgarh,Builder Floors,900.0,2.0,Unfurnished,Under Construction,1.0,South-East,3200000.0
+ Chhattisgarh,Houses & Villas,1800.0,3.0,Furnished,Ready to Move,,North,3800000.0
+ Kerala,Houses & Villas,800.0,2.0,Furnished,Ready to Move,1.0,East,2800000.0
+ Assam,Apartments,1215.0,3.0,Semi-Furnished,Ready to Move,1.0,North-West,7290000.0
+ Tamil Nadu,Houses & Villas,1150.0,2.0,Semi-Furnished,New Launch,1.0,North-East,3500000.0
+ Kerala,Houses & Villas,1300.0,3.0,Semi-Furnished,Ready to Move,,,4100000.0
+ Kerala,Houses & Villas,1600.0,3.0,Unfurnished,Ready to Move,,North,10200000.0
+ Maharashtra,Apartments,1281.0,3.0,Semi-Furnished,Ready to Move,1.0,,38500000.0
+ Himachal Pradesh,Houses & Villas,100.0,4.0,Furnished,Ready to Move,0.0,North,10000.0
+ Chhattisgarh,Houses & Villas,800.0,2.0,Unfurnished,Ready to Move,1.0,West,2500000.0
+ Tamil Nadu,Houses & Villas,1000.0,1.0,Unfurnished,Under Construction,1.0,North,3300000.0
+ Punjab,Apartments,990.0,2.0,Semi-Furnished,Ready to Move,2.0,North-East,2750000.0
+ Tamil Nadu,Houses & Villas,1170.0,2.0,Unfurnished,New Launch,3.0,South,3500000.0
+ Maharashtra,Apartments,1132.0,2.0,Semi-Furnished,Ready to Move,1.0,North-East,9500000.0
+ Maharashtra,Apartments,550.0,1.0,Unfurnished,Under Construction,,,7500000.0
+ Uttar Pradesh,Apartments,910.0,2.0,Semi-Furnished,Ready to Move,3.0,North-East,2097222.0
+ Gujarat,Apartments,650.0,1.0,Semi-Furnished,Ready to Move,3.0,North,2500000.0
+ Tamil Nadu,Houses & Villas,550.0,1.0,Semi-Furnished,Ready to Move,1.0,East,2300000.0
+ Kerala,Houses & Villas,1560.0,4.0,Semi-Furnished,Ready to Move,,East,4600000.0
+ Madhya Pradesh,Houses & Villas,0.0,3.0,Unfurnished,Under Construction,0.0,East,1300000.0
+ Karnataka,Apartments,1100.0,2.0,Furnished,Ready to Move,3.0,North-East,3500000.0
+ Uttar Pradesh,Apartments,32.0,1.0,Semi-Furnished,Ready to Move,4.0,,1150000.0
+ Rajasthan,Builder Floors,1050.0,3.0,Semi-Furnished,Ready to Move,1.0,East,2699456.0
+ Uttaranchal,Houses & Villas,800.0,2.0,Furnished,New Launch,1.0,West,3699999.0
+ Maharashtra,Apartments,700.0,1.0,Unfurnished,Ready to Move,,,12000000.0
+ Punjab,Builder Floors,990.0,2.0,Semi-Furnished,Ready to Move,2.0,North-East,2750000.0
+ Tamil Nadu,Houses & Villas,1150.0,2.0,Semi-Furnished,Ready to Move,1.0,North-East,3300000.0
+ Maharashtra,Apartments,500.0,1.0,Unfurnished,Under Construction,,,7500000.0
+ Rajasthan,Builder Floors,900.0,2.0,Semi-Furnished,Ready to Move,1.0,East,2099963.0
+ Tamil Nadu,Houses & Villas,1000.0,1.0,Unfurnished,Under Construction,1.0,North,3300000.0
+ Uttaranchal,Houses & Villas,1000.0,2.0,Furnished,New Launch,1.0,South,5200000.0
+ Maharashtra,Apartments,590.0,1.0,Unfurnished,Ready to Move,,,10500000.0
+ Kerala,Houses & Villas,1500.0,2.0,Semi-Furnished,Ready to Move,1.0,North,15000.0
+ Punjab,Apartments,990.0,2.0,Semi-Furnished,Ready to Move,2.0,North-West,2750000.0
+ Rajasthan,Apartments,1265.0,3.0,Furnished,New Launch,2.0,South,9500000.0
+ Maharashtra,Apartments,700.0,1.0,Unfurnished,Under Construction,,,9800000.0
+ Delhi,Apartments,300.0,1.0,Semi-Furnished,Ready to Move,1.0,South-West,699999.0
+ Punjab,Builder Floors,650.0,1.0,Semi-Furnished,Ready to Move,1.0,North-East,1790000.0
+ Delhi,Builder Floors,425.0,1.0,Semi-Furnished,Ready to Move,1.0,North-East,1251551.0
+ Gujarat,Apartments,782.0,2.0,Semi-Furnished,Ready to Move,5.0,East,1400000.0
+ Himachal Pradesh,Houses & Villas,5.0,4.0,Unfurnished,Ready to Move,,North-West,16000000.0
+ Maharashtra,Apartments,1120.0,2.0,Semi-Furnished,Ready to Move,10.0,,17000000.0
+ Uttar Pradesh,Apartments,855.0,2.0,Semi-Furnished,Ready to Move,4.0,North-East,2045625.0
+ Rajasthan,Builder Floors,1150.0,3.0,Semi-Furnished,Ready to Move,1.0,East,2999452.0
+ Kerala,Houses & Villas,700.0,2.0,Semi-Furnished,Ready to Move,,East,2300000.0
+ West Bengal,Apartments,1191.0,3.0,Semi-Furnished,New Launch,3.0,North-East,2798850.0
+ Maharashtra,Apartments,1150.0,2.0,Unfurnished,Ready to Move,,,16000000.0
+ Uttaranchal,Houses & Villas,1200.0,4.0,Furnished,New Launch,2.0,East,5499999.0
+ West Bengal,Apartments,1172.0,3.0,Semi-Furnished,Under Construction,3.0,South-West,2754200.0
+ Haryana,Houses & Villas,1070.0,3.0,Furnished,Ready to Move,1.0,South,4800000.0
+ Kerala,Houses & Villas,2500.0,4.0,Unfurnished,Ready to Move,,,14800000.0
+ Kerala,Houses & Villas,4000.0,4.0,Furnished,Ready to Move,,,55000000.0
+ Kerala,Houses & Villas,2400.0,4.0,Semi-Furnished,Ready to Move,,,23500000.0
+ West Bengal,Apartments,1327.0,3.0,Semi-Furnished,Under Construction,4.0,South-East,3118450.0
+ Uttar Pradesh,Builder Floors,1250.0,3.0,Semi-Furnished,Ready to Move,1.0,North-East,5485000.0
+ Maharashtra,Apartments,395.0,,Unfurnished,Ready to Move,2.0,,1900000.0
+ Punjab,Apartments,950.0,2.0,Semi-Furnished,Ready to Move,1.0,North-East,3990000.0
+ Kerala,Houses & Villas,1206.0,3.0,Unfurnished,New Launch,,North,4599999.0
+ Rajasthan,Houses & Villas,1500.0,3.0,Semi-Furnished,Ready to Move,1.0,West,3000000.0
+ Kerala,Houses & Villas,2000.0,4.0,Semi-Furnished,Ready to Move,2.0,East,6500000.0
+ Tamil Nadu,Houses & Villas,860.0,2.0,Unfurnished,Ready to Move,0.0,West,8600000.0
+ Tamil Nadu,Houses & Villas,1500.0,2.0,Semi-Furnished,Ready to Move,0.0,West,8500000.0
+ Tamil Nadu,Houses & Villas,1200.0,4.0,Semi-Furnished,Ready to Move,0.0,South,8800000.0
+ Tamil Nadu,Houses & Villas,1750.0,4.0,Semi-Furnished,Ready to Move,0.0,North-West,28500000.0
+ Tamil Nadu,Houses & Villas,1200.0,4.0,Semi-Furnished,Ready to Move,0.0,East,9500000.0
+ Tamil Nadu,Apartments,893.0,2.0,Semi-Furnished,Ready to Move,1.0,North,5500000.0
+ Chhattisgarh,Houses & Villas,1000.0,2.0,Semi-Furnished,New Launch,1.0,East,2199000.0
+ Kerala,Apartments,1147.0,2.0,Unfurnished,Ready to Move,,,7700000.0
+ Tamil Nadu,Houses & Villas,700.0,1.0,Semi-Furnished,Under Construction,,North-East,2750000.0
+ Kerala,Houses & Villas,2400.0,4.0,Furnished,Ready to Move,2.0,East,9900000.0
+ Kerala,Houses & Villas,1550.0,3.0,Semi-Furnished,Ready to Move,,East,5500000.0
+ West Bengal,Apartments,1035.0,2.0,Furnished,Ready to Move,1.0,North,6000000.0
+ Kerala,Houses & Villas,1450.0,3.0,Semi-Furnished,Ready to Move,,North,5500000.0
+ Maharashtra,Apartments,680.0,1.0,Unfurnished,Ready to Move,18.0,East,7300000.0
+ Kerala,Houses & Villas,2100.0,4.0,Semi-Furnished,Ready to Move,,,6200000.0
+ Kerala,Houses & Villas,1700.0,3.0,Semi-Furnished,Ready to Move,,,4900000.0
+ Kerala,Houses & Villas,1900.0,3.0,Semi-Furnished,Ready to Move,,,5500000.0
+ West Bengal,Apartments,1686.0,3.0,Semi-Furnished,Ready to Move,1.0,East,8400000.0
+ West Bengal,Apartments,1384.0,3.0,Unfurnished,Ready to Move,3.0,,5400000.0
+ Karnataka,Apartments,1785.0,3.0,Semi-Furnished,Ready to Move,1.0,North,6200000.0
+ Jharkhand,Builder Floors,1350.0,2.0,Semi-Furnished,Under Construction,4.0,East,4600000.0
